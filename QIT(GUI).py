@@ -7,6 +7,7 @@
 总觉得写CMD界面不太合适,因此也是自学爬虫和GUI制作
 作为我的第一个简单项目,写完那刻也是颇有感触
 不断的构思结构,布局,以及不断的debug.
+这就是程序猿的生活嘛 /doge
 Created By Apkdio
 """
 import ctypes
