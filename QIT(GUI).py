@@ -177,7 +177,7 @@ root.geometry("500x300")
 
 selected_value = tk.IntVar()
 selected_value.set(option4)
-# 规矩 模式 布局
+# 规划 模式 布局
 mode_label = tk.Label(root, text="选择查询模式:", font=("黑体", 15))
 mode_label.grid(row=0, column=1)
 mode1 = tk.Radiobutton(root, text="仅查询", variable=selected_value, value=1, font=("黑体", 15))
