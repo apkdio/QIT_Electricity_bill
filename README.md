@@ -1,2 +1,5 @@
 - This is a file used to query the electricity bills of QIT dormitories, written based on Python 3 It involves the basic use of Python crawlers and the tkiner library, which is also some of the gains I have learned during this period of time. As my first independently written Python project with a GUI, it has a great significance for me.
 - You can use `pyinstaller -F QIT(GUI).py` to package it into an exe file
+---
+- 这是一个简单的查询QIT宿舍电费的文件，基于Python 3编写。它涉及到Python爬虫和tkiner库的基本使用，这也是我在这段时间学到的一些收获。作为我第一个使用GUI独立编写的Python项目，它对我来说意义重大。
+- 你可以使用 pyinstaller -F QIT（GUI).py 语句将其打包成exe文件
